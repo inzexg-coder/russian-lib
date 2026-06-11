@@ -2,7 +2,7 @@
 
 | Файл | Тема | Статус |
 |------|------|--------|
-| `01-checked-unstressed-vowels.md` | Проверяемые безударные гласные | ✅ Готово |
+| `01-checked-unstressed-vowels.md` | Проверяемые безударные гласные | ✅ |
 | `02-unchecked-unstressed-vowels.md` | Непроверяемые безударные гласные | ⏳ |
 | `03-vowels-after-sibilants.md` | Гласные после шипящих | ⏳ |
 | `04-vowels-after-ts.md` | Гласные после Ц | ⏳ |
