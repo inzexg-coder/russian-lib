@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="rbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="47" fill="url(#rbg)" stroke="#c4b5fd" stroke-width="2"/>
+  <!-- Кириллическая А -->
+  <g transform="translate(50,46) scale(1.1)" fill="none" stroke="#fff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-14,18 L0,-22 L14,18"/>
+    <path d="M-10,8 L10,8"/>
+  </g>
+  <!-- Нижнее подчеркивание-страница -->
+  <line x1="26" y1="80" x2="74" y2="80" stroke="rgba(255,255,255,0.4)" stroke-width="2" stroke-linecap="round"/>
+  <line x1="30" y1="86" x2="70" y2="86" stroke="rgba(255,255,255,0.25)" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
