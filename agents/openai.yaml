@@ -1,0 +1,7 @@
+interface:
+  display_name: "Русский язык — правила орфографии, пунктуации, стилистики"
+  short_description: "Full Russian language rules library for AI agents"
+  default_prompt: "Use $russian-language-skill to look up Russian orthography, punctuation, or stylistic rules — load the relevant references/ subdirectory into context."
+
+policy:
+  allow_implicit_invocation: true
