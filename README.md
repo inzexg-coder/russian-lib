@@ -1,8 +1,8 @@
-<h1 align="center">📖 Русский язык — правила для AI-агентов</h1>
+<h1 align="center">📖 Russian Language Rules</h1>
 
 <p align="center">
-  Полная библиотека правил орфографии, пунктуации и стилистики русского языка,<br>
-  оформленная как <strong>Codex skill</strong> для любых AI-агентов.
+  Comprehensive reference library of Russian orthography, punctuation, stylistics, and grammar.<br>
+  Designed as a Codex skill for AI agents — clone, load, and apply.
 </p>
 
 <p align="center">
@@ -12,41 +12,62 @@
 
 ---
 
-## 🎯 Цель
+## 🎯 Purpose
 
-Любой AI-агент (Codex, Claude, GPT и др.), клонирующий этот репозиторий, получает структурированную базу знаний со всеми правилами русского языка. Агент может загружать нужные разделы в контекст при работе с русскоязычными текстами.
+Provide AI agents with a structured, authoritative knowledge base of Russian language rules. Any agent cloning this repository can load the relevant section into context when working with Russian text — whether generating, proofreading, editing, or analyzing.
 
-## 📂 Структура
+Covers four domains:
 
-```
-russian-language-skill/
-├── SKILL.md                    # Точка входа для AI-агента
-├── agents/openai.yaml          # UI-метаданные
-├── references/
-│   ├── spelling/       [WIP]   # Орфография
-│   ├── punctuation/    [WIP]   # Пунктуация
-│   ├── stylistics/     [WIP]   # Стилистика
-│   └── grammar/        [WIP]   # Грамматика
-├── scripts/                    # Вспомогательные скрипты
-└── assets/                     # Ресурсы
-```
-
-## 🚀 Статус
-
-| Раздел | Описание | Статус |
-|--------|----------|--------|
-| Орфография | Гласные, приставки, суффиксы, Н/НН, НЕ/НИ, сложные слова | ⏳ |
-| Пунктуация | Запятые, тире, двоеточие, кавычки, прямая речь | ⏳ |
-| Стилистика | Функциональные стили, лексика, тропы | ⏳ |
-| Грамматика | Морфология, синтаксис | ⏳ |
-
-## 🤝 Как внести вклад
-
-Добавляйте файлы с правилами в соответствующие папки `references/`.  
-Формат: Markdown, структура «правило → примеры → исключения».
+1. **Orthography** — spelling rules: vowels after sibilants, prefixes, suffixes, н/нн, не/ни, compound words, capitals
+2. **Punctuation** — comma, dash, colon, quotes, brackets, direct speech, introductory words, combinations
+3. **Stylistics** — functional styles, lexical precision, morphological variants, syntactic figures, tropes
+4. **Grammar** — morphology and syntax reference
 
 ---
 
+## 📂 Structure
+
+```
+russian-lib/
+├── SKILL.md                    # Codex skill entry point
+├── agents/openai.yaml          # UI metadata for skill lists
+├── references/                 # Core — all rules
+│   ├── spelling/               # Orthography (9 planned files)
+│   ├── punctuation/            # Punctuation (11 planned files)
+│   ├── stylistics/             # Stylistics (6 planned files)
+│   └── grammar/                # Grammar (2 planned files)
+├── scripts/                    # Utility scripts
+└── assets/                     # Resources and icons
+```
+
+---
+
+## 🚀 Status
+
+| Section | Files | Status |
+|---------|-------|--------|
+| Spelling | 9 planned | 📝 Structure ready |
+| Punctuation | 11 planned | 📝 Structure ready |
+| Stylistics | 6 planned | 📝 Structure ready |
+| Grammar | 2 planned | 📝 Structure ready |
+
+---
+
+## 🧮 Sources
+
+Rules are based on authoritative references:
+
+- **Russian Orthography and Punctuation Rules** (Lopatin, 2006) — academic standard
+- **Handbook of Spelling and Literary Editing** (Rosenthal) — practical reference
+- **Russian Grammar** (USSR Academy of Sciences, 1980) — comprehensive grammar
+- **Stylistics of the Russian Language** (Golub, Kozhina) — stylistic reference
+
+---
+
+## 📬 Contact
+
 <p align="center">
-  <a href="https://github.com/inzexg-coder">@inzexg-coder</a>
+  <a href="https://t.me/Amenoke"><img src="https://img.shields.io/badge/Telegram-amenoke-26A5E4?style=flat-square&logo=telegram&labelColor=222"></a>
+  <a href="mailto:amenokeakira@gmail.com"><img src="https://img.shields.io/badge/Email-amenokeakira@gmail.com-EA4335?style=flat-square&logo=gmail&labelColor=222"></a>
+  <a href="https://github.com/inzexg-coder"><img src="https://img.shields.io/badge/GitHub-@inzexg__coder-181717?style=flat-square&logo=github&labelColor=222"></a>
 </p>
