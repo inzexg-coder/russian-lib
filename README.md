@@ -22,9 +22,7 @@
 
 <p align="center">
   <a href="#цель">Цель</a> &middot;
-  <a href="#структура">Структура</a> &middot;
-  <a href="#статус">Статус</a> &middot;
-  <a href="#источники">Источники</a>
+  <a href="#структура">Структура</a>
 </p>
 
 ---
@@ -57,28 +55,6 @@ russian-lib/
 ├── assets/                     # Resources and icons
 └── README.md                   # This file
 ```
-
----
-
-## Статус
-
-| Section | Files | Status |
-|---------|-------|--------|
-| Spelling | 9 planned | 📝 Structure ready |
-| Punctuation | 11 planned | 📝 Structure ready |
-| Stylistics | 6 planned | 📝 Structure ready |
-| Grammar | 2 planned | 📝 Structure ready |
-
----
-
-## Источники
-
-Rules are based on authoritative references:
-
-- **Russian Orthography and Punctuation Rules** (Lopatin, 2006) — academic standard
-- **Handbook of Spelling and Literary Editing** (Rosenthal) — practical reference
-- **Russian Grammar** (USSR Academy of Sciences, 1980) — comprehensive grammar
-- **Stylistics of the Russian Language** (Golub, Kozhina) — stylistic reference
 
 ---
 
