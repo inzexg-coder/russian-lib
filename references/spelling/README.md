@@ -5,3 +5,4 @@
 - `03-alternating-vowels.md` — Чередующиеся гласные в корне
 - `04-vowels-after-sibilants.md` — Гласные после шипящих
 - `05-vowels-after-ts.md` — Гласные после ц
+- `06-letters-e-e.md` — Буквы Э — Е
