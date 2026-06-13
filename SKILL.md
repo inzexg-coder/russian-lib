@@ -30,6 +30,23 @@ description: "Comprehensive reference library of Russian language rules — orth
 | Сомнительная согласная в корне (звонкие/глухие) | `08-voiced-voiceless-consonants` |
 | Двойные согласные (в корне, на стыке приставки и корня) | `09-double-consonants` |
 | Непроизносимые согласные (вств, здн, стн и др.) | `10-unpronounceable-consonants` |
+| Прописная буква в начале текста, после знаков препинания | `11-basic-capitalization` |
+| Собственные имена лиц, фамилии, псевдонимы | `13-personal-names` |
+| Клички животных, названия сортов растений и вин | `14-animals-plants-wines` |
+| Имена персонажей басен, сказок, пьес | `15-fables-characters` |
+| Прилагательные и наречия от имён собственных | `16-adjectives-from-names` |
+| Географические и административные названия | `17-geographic-names` |
+| Астрономические названия | `18-astronomical-names` |
+| Исторические эпохи, события, геологические периоды | `19-historical-events` |
+| Праздники, народные движения, знаменательные даты | `20-holidays-dates` |
+| Названия, связанные с религией | `21-religion` |
+| Организации, учреждения, предприятия, фирмы | `22-organizations` |
+| Документы, памятники старины, произведения искусства | `23-documents-art` |
+| Должности и звания | `24-positions-titles` |
+| Ордена, медали, знаки отличия, премии | `25-orders-medals` |
+| Литературные произведения и СМИ | `26-literary-media` |
+| Сложносокращённые слова и аббревиатуры | `27-abbreviations` |
+| Условные имена собственные | `28-conventional-names` |
 
 ### Шаг 3. Загрузите файл в контекст
 
@@ -56,7 +73,24 @@ russian-lib/
 │   │   ├── 07-letter-y.md
 │   │   ├── 08-voiced-voiceless-consonants.md
 │   │   ├── 09-double-consonants.md
-│   │   └── 10-unpronounceable-consonants.md
+│   │   ├── 10-unpronounceable-consonants.md
+│   │   ├── 11-basic-capitalization.md
+│   │   ├── 13-personal-names.md
+│   │   ├── 14-animals-plants-wines.md
+│   │   ├── 15-fables-characters.md
+│   │   ├── 16-adjectives-from-names.md
+│   │   ├── 17-geographic-names.md
+│   │   ├── 18-astronomical-names.md
+│   │   ├── 19-historical-events.md
+│   │   ├── 20-holidays-dates.md
+│   │   ├── 21-religion.md
+│   │   ├── 22-organizations.md
+│   │   ├── 23-documents-art.md
+│   │   ├── 24-positions-titles.md
+│   │   ├── 25-orders-medals.md
+│   │   ├── 26-literary-media.md
+│   │   ├── 27-abbreviations.md
+│   │   └── 28-conventional-names.md
 │   ├── punctuation/            # Пунктуация
 │   ├── stylistics/             # Стилистика
 │   └── grammar/                # Грамматика
