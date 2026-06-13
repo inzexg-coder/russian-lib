@@ -1,0 +1,18 @@
+# Cross-reference index: § section → file mapping
+# Used by SKILL.md and references/spelling/README.md
+#
+# Existing files:
+§1-7: references/spelling/01-checked-unstressed-vowels.md,02-uncheckable-vowels.md,03-alternating-vowels.md,04-vowels-after-sibilants.md,05-vowels-after-ts.md,06-letters-e-e.md,07-letter-y.md
+§8: references/spelling/08-voiced-voiceless-consonants.md
+§9: references/spelling/09-double-consonants.md
+§10: references/spelling/10-unpronounceable-consonants.md
+#
+# Planned files (standard Russian orthography reference numbering):
+§11-17: Правописание приставок (prefixes)
+§18-22: Гласные после приставок, ъ и ь
+§23-30: Гласные в приставках пре-/при-
+§31: Приставки пре-/при- (продолжение)
+§32-39: Суффиксы существительных и прилагательных
+§40: Суффиксы прилагательных и причастий (н/нн)
+§41-51: Правописание сложных слов, числительных, местоимений
+§52: Одна и две н в существительных, образованных от причастий
