@@ -7,3 +7,6 @@
 - `05-vowels-after-ts.md` — Гласные после ц
 - `06-letters-e-e.md` — Буквы Э — Е
 - `07-letter-y.md` — Буква Й
+- `08-voiced-voiceless-consonants.md` — Звонкие и глухие согласные
+- `09-double-consonants.md` — Двойные согласные в корне и на стыке приставки и корня
+- `10-unpronounceable-consonants.md` — Непроизносимые согласные
