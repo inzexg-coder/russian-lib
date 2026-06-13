@@ -17,5 +17,5 @@
 
 ## Перекрёстные ссылки
 
-- [§75–78](75-78-end-sentence.md) и [§11–12](../spelling/11-basic-capitalization.md) — прописные буквы после знаков препинания
-- [§128–132](128-132-quotation-marks.md) и [§26](../spelling/26-literary-media.md) — названия в кавычках
+- [§75–78](75-tochka.md) и [§11–12](../spelling/11-basic-capitalization.md) — прописные буквы после знаков препинания
+- [§128–132](128-slova-upotreblyaemye-v-neobychnom-uslovnom-ironicheskom-znachenii.md) и [§26](../spelling/26-literary-media.md) — названия в кавычках

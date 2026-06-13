@@ -36,6 +36,10 @@
 
 | § | Файл |
 |---|---|
+| §29–74 | `29-razdelitelnyy-tvyordyy-znak.md` … `74-transkriptsiya-inostrannykh-slov.md` |
+
+| § | Файл |
+|---|---|
 | §1–7 | `01-checked-unstressed-vowels.md` … `07-letter-y.md` |
 | §8 | `08-voiced-voiceless-consonants.md` |
 | §9 | `09-double-consonants.md` |
@@ -75,7 +79,7 @@
 Для ещё не созданных файлов — `§31` (просто номер).
 При добавлении нового файла нужно:
 
-1. Заменить `§N` на `[§N](NN-filename.md)` во всех существующих файлах.
+
 2. Добавить строку в индекс выше.
 3. Обновить SKILL.md (таблица в шаге 2).
 - `41-compound-nouns.md` — Сложные существительные и слова без соединительной гласной
